@@ -28,7 +28,7 @@ At **Ax Xpress INC**, I lead a focused engineering team building the platform en
 
 ### 📫 Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/harshit-dubey-456499b3)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshit-dubey-456499b3)
 - 🌐 [Ax Xpress](https://axxpress.com)
 - 📧 harshitdubey456@gmail.com
 - 🐙 [github.com/harshitdubey456](https://github.com/harshitdubey456)
